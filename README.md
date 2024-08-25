@@ -28,8 +28,6 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d2b04895-5b04-408e-81f7-edd0340cdf45" width="200px" /></td>
     <td><img src="https://github.com/user-attachments/assets/fa990644-10bf-4803-ae06-3a6f0d10b2fc" width="200px" /></td>
-
- width="200px" /></td>
   </tr>
 </table>
 
