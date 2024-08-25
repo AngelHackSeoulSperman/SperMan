@@ -21,13 +21,14 @@
 ### 📱 Screenshots
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/4bff77c2-994a-4589-814c-cd17b6f3349b" width="200px" /></td>
+    <td><img src="https://github.com/user-attachments/assets/ff8f2bae-e3ed-4c1f-8534-4e8b9d033100" width="200px" /></td>
     <td><img src="https://github.com/user-attachments/assets/4df1fca8-ec0b-442b-99c1-1a4064c1b3dc" width="200px" /></td>
     <td><img src="https://github.com/user-attachments/assets/c8049e67-5002-406e-a599-571d52198db2" width="200px" /></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d2b04895-5b04-408e-81f7-edd0340cdf45" width="200px" /></td>
-    <td><img src="![Uploading image.png…]()
+    <td><img src="https://github.com/user-attachments/assets/fa990644-10bf-4803-ae06-3a6f0d10b2fc" width="200px" /></td>
+
  width="200px" /></td>
   </tr>
 </table>
